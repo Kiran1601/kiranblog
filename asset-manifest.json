@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kiranblog/static/css/main.ca544abd.css",
+    "main.js": "/kiranblog/static/js/main.b648960d.js",
+    "static/media/Kiran.A Resume.pdf": "/kiranblog/static/media/Kiran.A Resume.0a9e40f459fa63ad8ed0.pdf",
+    "static/media/me-about.jpg": "/kiranblog/static/media/me-about.75bec5205822a4b47ca4.jpg",
+    "static/media/My Image.jpeg": "/kiranblog/static/media/My Image.6d36590e064bc73e185d.jpeg",
+    "index.html": "/kiranblog/index.html",
+    "main.ca544abd.css.map": "/kiranblog/static/css/main.ca544abd.css.map",
+    "main.b648960d.js.map": "/kiranblog/static/js/main.b648960d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca544abd.css",
+    "static/js/main.b648960d.js"
+  ]
+}
