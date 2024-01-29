@@ -23,18 +23,18 @@ const About = () => {
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small>5+ Years Working As a Full Stack Java Developer</small>
+                <small>3+ Years Working As a Java Developer</small>
               </article>
 
               <article className='about__card'>
                 <FiUsers className='about__icon'/>
                 <h5>Clients</h5>
-                <small>CVS, CBRE, GLLECUS, ZENSAR</small>
+                <small>Epsilon, Espire </small>
               </article>
             </div>
             <p>
-              Hi This Kiran Currently Working at CVS HealthCare.
-              I totally have 5+ years of experence as an Full-Stack
+              Hi This Kiran Currently Working at Epsilon.
+              I totally have 3+ years of experence as a
               Java Developer and I am currently looking for opportunities 
               and open to work around USA.
             </p>
