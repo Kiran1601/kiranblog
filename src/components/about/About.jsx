@@ -35,7 +35,7 @@ const About = () => {
             <p>
               Hi This Kiran Currently Working at Epsilon.
               I totally have 3+ years of experience as a
-              Java Developer and I am currently looking for opportunities 
+              Java Developer and I am currently looking for  new opportunities 
               and open to work around USA.
             </p>
              <a href="#contact" className ='btn btn-primary'>Let's Talk</a>
